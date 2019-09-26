@@ -1,0 +1,99 @@
+#EXTM3U url-tvg="http://iptv-epg.com/fca3-ftbtxr.xml" x-tvg-url="http://iptv-epg.com/fca3-ftbtxr.xml"
+#EXTINF:-1 tvg-id="NatGeoHD.il" tvg-name="Nat Geo HD" tvg-logo="http://static.iptv-epg.com/il/NatGeoHD.il.png" tvg-chno="1" channel-id="1" group-title="111",NatGeo FHD
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=406172&title=NatGeo&epg=natgeo.il
+#EXTINF:-1 tvg-id="DiscoveryScience.il" tvg-name="Discovery Science IL" tvg-logo="http://static.iptv-epg.com/il/DiscoveryScience.il.png" tvg-chno="2" channel-id="2" group-title="111",Discovery Science
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=1527&title=Discovery%20Channel&epg=discoverychannel.il
+#EXTINF:-1 tvg-id="HistoryChannel.il" tvg-name="History Channel IL" tvg-logo="http://static.iptv-epg.com/il/HistoryChannel.il.png" tvg-chno="3" channel-id="3" group-title="111",history
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=1527&title=Discovery%20Channel&epg=discoverychannel.il
+#EXTINF:-1 tvg-id="DoItYourself.il" tvg-name="DIY IL" tvg-logo="http://static.iptv-epg.com/il/DoItYourself.il.png" tvg-chno="4" channel-id="4" group-title="111",Do It Yourself
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=1527&title=Discovery%20Channel&epg=discoverychannel.il
+#EXTINF:-1 tvg-id="AnimalPlanet.il" tvg-name="Animal Planet IL" tvg-logo="http://static.iptv-epg.com/il/AnimalPlanet.il.png" tvg-chno="5" channel-id="5" group-title="111",Animal Planet
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=1537&title=Hot3&epg=hot3.il
+#EXTINF:-1 tvg-id="BBCEntertainment.il" tvg-name="BBC Entertainment IL" tvg-logo="http://static.iptv-epg.com/il/BBCEntertainment.il.png" tvg-chno="6" channel-id="6" group-title="111",BBCEntertainment.il
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=1567&title=Yam%20Tichoni&epg=25.il
+#EXTINF:-1 tvg-id="GreekMusic.il" tvg-name="Greek Music IL" tvg-logo="http://static.iptv-epg.com/il/GreekMusic.il.png" tvg-chno="7" channel-id="7" tvg-type="live" group-title="111",gres music
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=406339&title=Greek%20Music&epg=greek.music.il
+#EXTINF:-1 tvg-id="MTV.il" tvg-name="MTV IL" tvg-logo="http://static.iptv-epg.com/il/MTV.il.png" tvg-chno="8" channel-id="8" tvg-type="live" group-title="111",MTV
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=406339&title=Greek%20Music&epg=greek.music.il
+#EXTINF:-1 tvg-id="MTVDance.il" tvg-name="MTV Dance IL" tvg-logo="http://static.iptv-epg.com/il/MTVDance.il.png" tvg-chno="9" channel-id="9" tvg-type="live" group-title="111",MTV Dance
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=406339&title=Greek%20Music&epg=greek.music.il
+#EXTINF:-1 tvg-id="MTVHits.il" tvg-name="MTV Hits IL" tvg-logo="http://static.iptv-epg.com/il/MTVHits.il.png" tvg-chno="10" channel-id="10" tvg-type="live" group-title="111",MTV Hits
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=406339&title=Greek%20Music&epg=greek.music.il
+#EXTINF:-1 tvg-id="MTVSeries.il" tvg-name="MTV Series IL" tvg-logo="http://static.iptv-epg.com/il/MTVSeries.il.png" tvg-chno="11" channel-id="11" tvg-type="live" group-title="111",MTV Series
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=406339&title=Greek%20Music&epg=greek.music.il
+#EXTINF:-1 tvg-id="ShoppingChannel.il" tvg-name="Shopping Channel IL" tvg-logo="http://static.iptv-epg.com/il/ShoppingChannel.il.png" tvg-chno="12" channel-id="12" group-title="111",sohping 21
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8?ttl=1524643697&cdn_token=5a6c4f1270440ae72118c8ae16c58de4|User-Agent=Mozilla/5.0 (Macintosh, Intel Mac OS X 10_10_2) AppleWebKit / 6
+#EXTINF:-1 tvg-id="Makan33.il" tvg-name="Makan 33 IL" tvg-logo="http://static.iptv-epg.com/il/Makan33.il.png" tvg-chno="13" channel-id="13" group-title="111",Hot Lollypop IL
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_4k/chunklist.m3u8|User-Agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0)
+#EXTINF:-1 tvg-id="KabalaChannel.il" tvg-name="Kabala Channel IL" tvg-logo="http://static.iptv-epg.com/il/KabalaChannel.il.png" tvg-chno="14" channel-id="14" group-title="111",FTV IL
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FineLiving.il" tvg-name="Fine Living IL" tvg-logo="http://static.iptv-epg.com/il/FineLiving.il.png" tvg-chno="15" channel-id="15" group-title="111",Fine Living ????
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=406169&title=FineLiving&epg=fineliving.il
+#EXTINF:-1 tvg-id="FoodNetwork.il" tvg-name="Food Network IL" tvg-logo="http://static.iptv-epg.com/il/FoodNetwork.il.png" tvg-chno="16" channel-id="16" group-title="111",Foody
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=406174&title=Foody&epg=foody.il
+#EXTINF:-1 tvg-id="KanKinohit.il" tvg-name="Kan Kinohit IL" tvg-logo="http://static.iptv-epg.com/il/KanKinohit.il.png" tvg-chno="17" channel-id="17" group-title="111",Fun TV IL
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_4k/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+#EXTINF:-1 tvg-id="TeddyChannel.il" tvg-name="Teddy Channel IL" tvg-logo="http://static.iptv-epg.com/il/TeddyChannel.il.png" tvg-chno="18" channel-id="18" group-title="111",Teddy Channel
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=1541&title=Channel%208&epg=channel8.il
+#EXTINF:-1 tvg-id="ComedyCentral.il" tvg-name="Comedy Central IL" tvg-logo="http://static.iptv-epg.com/il/ComedyCentral.il.png" tvg-chno="19" channel-id="19" group-title="111",Comedy Central IL
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=1541&title=Channel%208&epg=channel8.il
+#EXTINF:-1 tvg-id="RealityChannel.il" tvg-name="Reality Channel IL" tvg-logo="http://static.iptv-epg.com/il/RealityChannel.il.png" tvg-chno="20" channel-id="20" group-title="111",Reality Channel
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=1547&title=Channel%209&epg=channel9.il
+#EXTINF:-1 tvg-id="RTVi.il" tvg-name="RTVi IL" tvg-logo="http://static.iptv-epg.com/il/RTVi.il.png" tvg-chno="21" channel-id="21" group-title="111",RTVi
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=1547&title=Channel%209&epg=channel9.il
+#EXTINF:-1 tvg-id="SaudiArabia.il" tvg-name="Saudi Arabia IL" tvg-logo="http://static.iptv-epg.com/il/SaudiArabia.il.png" tvg-chno="22" channel-id="22" group-title="111",Saudi Arabia
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=1547&title=Channel%209&epg=channel9.il
+#EXTINF:-1 tvg-id="CBSReality.il" tvg-name="CBS Reality IL" tvg-logo="http://static.iptv-epg.com/il/CBSReality.il.png" tvg-chno="23" channel-id="23" group-title="111",CBS Reality
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=1547&title=Channel%209&epg=channel9.il
+#EXTINF:-1 tvg-id="Channel8.il" tvg-name="Channel 8 IL" tvg-logo="http://static.iptv-epg.com/il/Channel8.il.png" tvg-chno="24" channel-id="24" group-title="111",8
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=1547&title=Channel%209&epg=channel9.il
+#EXTINF:-1 tvg-id="CNN.il" tvg-name="CNN IL" tvg-logo="http://static.iptv-epg.com/il/CNN.il.png" tvg-chno="25" channel-id="25" group-title="111",CNN
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=1547&title=Channel%209&epg=channel9.il
+#EXTINF:-1 tvg-id="kidZ.il" tvg-name="kidZ IL" tvg-logo="http://static.iptv-epg.com/il/kidZ.il.png" tvg-chno="26" channel-id="26" group-title="111",Yeladim
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=406158&title=Yeladim&epg=yeladim.il
+#EXTINF:-1 tvg-id="Hope.il" tvg-name="Hope! IL" tvg-logo="http://static.iptv-epg.com/il/Hope.il.png" tvg-chno="27" channel-id="27" group-title="111",hope
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=1502&title=hop&epg=hope.il
+#EXTINF:-1 tvg-id="StarsChannel.il" tvg-name="Stars Channel IL" tvg-logo="http://static.iptv-epg.com/il/StarsChannel.il.png" tvg-chno="28" channel-id="28" group-title="111",Stars Channel
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=406177&title=Hero!&epg=hero.il
+#EXTINF:-1 tvg-id="Hero.il" tvg-name="Hero IL" tvg-logo="http://static.iptv-epg.com/il/Hero.il.png" tvg-chno="29" channel-id="29" group-title="111",hero
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=406177&title=Hero!&epg=hero.il
+#EXTINF:-1 tvg-id="Ginx.il" tvg-name="Ginx IL" tvg-logo="http://static.iptv-epg.com/il/Ginx.il.png" tvg-chno="30" channel-id="30" group-title="111",GINX
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=406175&title=GINX&epg=ginx.il
+#EXTINF:-1 tvg-id="Logi.il" tvg-name="Logi IL" tvg-logo="http://static.iptv-epg.com/il/Logi.il.png" tvg-chno="31" channel-id="31" group-title="111",logi
+http://localhost:62555/?plugin://program.apollo/?action=myaddon&imdb=9999&season=406165&title=Logi&epg=logi.il
+#EXTINF:-1 tvg-id="HumorChannel.il" tvg-name="Humor Channel IL" tvg-logo="http://static.iptv-epg.com/il/HumorChannel.il.png" tvg-chno="32" channel-id="32" tvg-type="live" group-title="111",Humor Channel IL
+https://tv4.live/api/stream/mymaxtvdan106@gmail.com/81wm6u/livetv.epg/zee.24.kalak.in.m3u8
+#EXTINF:-1 tvg-id="IsraeliCinema.il" tvg-name="Israeli Cinema IL" tvg-logo="http://static.iptv-epg.com/il/IsraeliCinema.il.png" tvg-chno="33" channel-id="33" tvg-type="live" group-title="111",Israeli Cinema IL
+https://tv4.live/api/stream/mymaxtvdan106@gmail.com/81wm6u/livetv.epg/zee.action.in.m3u8
+#EXTINF:-1 tvg-id="KanKinohit.il" tvg-name="Kan Kinohit IL" tvg-logo="http://static.iptv-epg.com/il/KanKinohit.il.png" tvg-chno="34" channel-id="34" tvg-type="live" group-title="111",Kan Kinohit IL
+https://tv4.live/api/stream/mymaxtvdan106@gmail.com/81wm6u/livetv.epg/zee.anmol.cinema.in.m3u8
+#EXTINF:-1 tvg-id="Mikan.il" tvg-name="Mikan IL" tvg-logo="http://static.iptv-epg.com/il/Mikan.il.png" tvg-chno="35" channel-id="35" tvg-type="live" group-title="111",Mikan IL
+https://tv4.live/api/stream/mymaxtvdan106@gmail.com/81wm6u/livetv.epg/zee.bangla.in.m3u8
+#EXTINF:-1 tvg-id="One4K.il" tvg-name="One 4K IL" tvg-logo="http://static.iptv-epg.com/il/One4K.il.png" tvg-chno="36" channel-id="36" tvg-type="live" group-title="111",One 4K IL
+https://tv4.live/api/stream/mymaxtvdan106@gmail.com/81wm6u/livetv.epg/zee.bangla.cinema.in.m3u8
+#EXTINF:-1 tvg-id="TraceSport.il" tvg-name="Trace Sport IL" tvg-logo="http://static.iptv-epg.com/il/TraceSport.il.png" tvg-chno="37" channel-id="37" tvg-type="live" group-title="111",Trace Sport IL
+https://tv4.live/api/stream/mymaxtvdan106@gmail.com/81wm6u/livetv.epg/zee.business.in.m3u8
+#EXTINF:-1 tvg-id="TravelChannelSD.il" tvg-name="Travel Channel SD IL" tvg-logo="http://static.iptv-epg.com/il/TravelChannelSD.il.png" tvg-chno="38" channel-id="38" tvg-type="live" group-title="111",Travel Channel SD IL
+https://tv4.live/api/stream/mymaxtvdan106@gmail.com/81wm6u/livetv.epg/zee.cafe.in.m3u8
+#EXTINF:-1 tvg-id="ComedyTV.il" tvg-name="Comedy TV IL" tvg-logo="http://static.iptv-epg.com/il/ComedyTV.il.png" tvg-chno="39" channel-id="39" tvg-type="live" group-title="111",Comedy TV IL
+https://tv4.live/api/stream/mymaxtvdan106@gmail.com/81wm6u/livetv.epg/zee.cinema.in.m3u8
+#EXTINF:-1 tvg-id="VH1.il" tvg-name="VH1 IL" tvg-logo="http://static.iptv-epg.com/il/VH1.il.png" tvg-chno="40" channel-id="40" tvg-type="live" group-title="111",VH1 IL
+https://tv4.live/api/stream/mymaxtvdan106@gmail.com/81wm6u/livetv.epg/zee.kannada.in.m3u8
+#EXTINF:-1 tvg-id="VH1Classic.il" tvg-name="VH1 Classic IL" tvg-logo="http://static.iptv-epg.com/il/VH1Classic.il.png" tvg-chno="41" channel-id="41" tvg-type="live" group-title="111",VH1 Classic IL
+https://tv4.live/api/stream/mymaxtvdan106@gmail.com/81wm6u/livetv.epg/zee.marathi.in.m3u8
+#EXTINF:-1 tvg-id="Wiz.il" tvg-name="Wiz IL" tvg-logo="http://static.iptv-epg.com/il/Wiz.il.png" tvg-chno="42" channel-id="42" tvg-type="live" group-title="111",Wiz IL
+https://tv4.live/api/stream/mymaxtvdan106@gmail.com/81wm6u/livetv.epg/zee.mp.cg.in.m3u8
+#EXTINF:-1 tvg-id="YesBaby.il" tvg-name="Yes Baby IL" tvg-logo="http://static.iptv-epg.com/il/YesBaby.il.png" tvg-chno="43" channel-id="43" tvg-type="live" group-title="111",Yes Baby IL
+https://tv4.live/api/stream/mymaxtvdan106@gmail.com/81wm6u/livetv.epg/zee.news.in.m3u8
+#EXTINF:-1 tvg-id="YesEdge.il" tvg-name="Yes Edge IL" tvg-logo="http://static.iptv-epg.com/il/YesEdge.il.png" tvg-chno="44" channel-id="44" tvg-type="live" group-title="111",Yes Edge IL
+https://tv4.live/api/stream/mymaxtvdan106@gmail.com/81wm6u/livetv.epg/zee.salaam.in.m3u8
+#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="Zee Talkies IN" tvg-logo="http://static.iptv-epg.com/in/ZeeTalkies.in.png" tvg-chno="45" channel-id="45" tvg-type="live" group-title="111",Zee Talkies
+https://tv4.live/api/stream/mymaxtvdan106@gmail.com/81wm6u/livetv.epg/zee.talkies.in.m3u8
+#EXTINF:-1 tvg-id="sport1.il" tvg-name="Sport 1 IL" tvg-logo="http://static.iptv-epg.com/il/sport1.il.png" tvg-chno="46" channel-id="46" tvg-type="live" group-title="111",Sport 1 IL
+https://tv4.live/api/stream/mymaxtvdan106@gmail.com/81wm6u/livetv.epg/zee.telugu.in.m3u8
+#EXTINF:-1 tvg-id="ExtremeSports.il" tvg-name="Extreme Sports IL" tvg-logo="http://static.iptv-epg.com/il/ExtremeSports.il.png" tvg-chno="47" channel-id="47" tvg-type="live" group-title="111",Extreme Sports IL
+https://tv4.live/api/stream/mymaxtvdan106@gmail.com/81wm6u/livetv.epg/zee.tv.in.m3u8
+#EXTINF:-1 tvg-id="Fashion.il" tvg-name="Fashion IL" tvg-logo="http://static.iptv-epg.com/il/Fashion.il.png" tvg-chno="48" channel-id="48" tvg-type="live" group-title="111",Fashion IL
+https://tv4.live/api/stream/mymaxtvdan106@gmail.com/81wm6u/livetv.epg/star.world.in.m3u8
+#EXTINF:-1 tvg-id="FoxSport.il" tvg-name="Fox Sport IL" tvg-logo="http://static.iptv-epg.com/il/FoxSport.il.png" tvg-chno="49" channel-id="49" tvg-type="live" group-title="111",Fox Sport IL
+
